@@ -1,4 +1,4 @@
-# Projetoo
+# Projeto Front-End em desenvolvimento para Sebrae-RS desenvolvido em Angular6.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.1.
 
